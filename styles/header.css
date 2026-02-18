@@ -1,0 +1,17 @@
+.header{
+    height: 55px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.name{
+    height: 300px;
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-self: center;
+    font-family:  DM Serif Text;
+    font-size: 50px;
+}
