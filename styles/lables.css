@@ -28,3 +28,22 @@
     line-height: 1.6;
     margin-bottom: 24px;
 }
+
+
+ @media (max-width: 768px) {
+     .about {
+         padding: 60px 20;
+     }
+     
+     .about-label {
+         max-width: 100%;
+     }
+
+     .about-text{
+        font-size:  1.5rem;
+     }
+     .about-text p {
+         font-size:  1rem;
+         line-height: 1.7;
+     }
+ }

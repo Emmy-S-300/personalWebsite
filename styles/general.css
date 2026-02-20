@@ -4,10 +4,10 @@ body {
             min-height: 100vh;
 
             background: linear-gradient(to left,
-                    #5b2be0,
-                    #6d28d9,
-                    #4f46e5,
-                    #3b82f6);
+                    rgb(91, 43, 224),
+                    rgb(109, 40, 217),
+                    rgb(79, 70, 229),
+                    rgb(59, 130, 246));
             color: white;
         }
 
