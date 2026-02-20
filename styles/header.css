@@ -1,17 +1,13 @@
-.header{
-    height: 55px;
+.header {
+            
+            height: 55px;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+        }
 
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
-
-.name{
-    height: 300px;
-    display: flex;
-    flex: 1;
-    flex-direction: row;
-    justify-self: center;
-    font-family:  DM Serif Text;
-    font-size: 50px;
-}
+        .hamburger-menu {
+            height: 24px;
+            margin-left: 24px;
+            margin-right: 24px;
+        }
