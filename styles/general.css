@@ -1,17 +1,21 @@
 body {
 
-            margin: 0;
-            min-height: 100vh;
+    margin: 0;
+    min-height: 100vh;
 
-            background: linear-gradient(to left,
-                    rgb(91, 43, 224),
-                    rgb(109, 40, 217),
-                    rgb(79, 70, 229),
-                    rgb(59, 130, 246));
-            color: white;
-        }
+    background: linear-gradient(to left,
+            rgb(91, 43, 224),
+            rgb(109, 40, 217),
+            rgb(79, 70, 229),
+            rgb(59, 130, 246));
+    color: white;
+}
 
-.p{
+html{
+    scroll-behavior: smooth;
+}
+
+.p {
     margin-top: 0;
     margin-bottom: 0;
 }
